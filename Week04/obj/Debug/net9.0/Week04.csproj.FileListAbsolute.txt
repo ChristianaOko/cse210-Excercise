@@ -1,0 +1,14 @@
+/home/emmanuelumera/Desktop/Week04/bin/Debug/net9.0/Week04
+/home/emmanuelumera/Desktop/Week04/bin/Debug/net9.0/Week04.deps.json
+/home/emmanuelumera/Desktop/Week04/bin/Debug/net9.0/Week04.runtimeconfig.json
+/home/emmanuelumera/Desktop/Week04/bin/Debug/net9.0/Week04.dll
+/home/emmanuelumera/Desktop/Week04/bin/Debug/net9.0/Week04.pdb
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.AssemblyInfoInputs.cache
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.AssemblyInfo.cs
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.csproj.CoreCompileInputs.cache
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.dll
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/refint/Week04.dll
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.pdb
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/Week04.genruntimeconfig.cache
+/home/emmanuelumera/Desktop/Week04/obj/Debug/net9.0/ref/Week04.dll
