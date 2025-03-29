@@ -1,0 +1,14 @@
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/bin/Debug/net9.0/YoutubeVideos
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/bin/Debug/net9.0/YoutubeVideos.deps.json
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/bin/Debug/net9.0/YoutubeVideos.runtimeconfig.json
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/bin/Debug/net9.0/YoutubeVideos.dll
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/bin/Debug/net9.0/YoutubeVideos.pdb
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.AssemblyInfoInputs.cache
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.AssemblyInfo.cs
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.csproj.CoreCompileInputs.cache
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.dll
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/refint/YoutubeVideos.dll
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.pdb
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/YoutubeVideos.genruntimeconfig.cache
+/home/emmanuelumera/Desktop/Week04/YoutubeVideos/obj/Debug/net9.0/ref/YoutubeVideos.dll
