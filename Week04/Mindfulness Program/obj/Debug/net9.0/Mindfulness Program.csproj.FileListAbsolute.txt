@@ -1,0 +1,14 @@
+/home/emmanuelumera/Desktop/Mindfulness Program/bin/Debug/net9.0/Mindfulness Program
+/home/emmanuelumera/Desktop/Mindfulness Program/bin/Debug/net9.0/Mindfulness Program.deps.json
+/home/emmanuelumera/Desktop/Mindfulness Program/bin/Debug/net9.0/Mindfulness Program.runtimeconfig.json
+/home/emmanuelumera/Desktop/Mindfulness Program/bin/Debug/net9.0/Mindfulness Program.dll
+/home/emmanuelumera/Desktop/Mindfulness Program/bin/Debug/net9.0/Mindfulness Program.pdb
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.AssemblyInfoInputs.cache
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.AssemblyInfo.cs
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.csproj.CoreCompileInputs.cache
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.dll
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/refint/Mindfulness Program.dll
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.pdb
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/Mindfulness Program.genruntimeconfig.cache
+/home/emmanuelumera/Desktop/Mindfulness Program/obj/Debug/net9.0/ref/Mindfulness Program.dll
